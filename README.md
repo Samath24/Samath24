@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a website about luxury hotels in the far reaches of the North**
 
-- 🌱 I’m currently learning **Node.js, and to know in depth the JavaScript fullstack ecosystem**
+- 🌱 I’m currently learning **Node.js, to explore in-depth the JavaScript fullstack ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://thomas-delmas.fr/](https://thomas-delmas.fr/)
 
